@@ -4,7 +4,7 @@ function ejemplo(){
 
 let saludo = 'hola'
 
-console.log(saludo)
+console.log(saludo);
 
 }
 
